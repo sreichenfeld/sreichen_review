@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ReviewProject/src"/>
+	<classpathentry kind="lib" path="ReviewProject/build/libs/TestingProject.jar"/>
+	<classpathentry kind="output" path="ReviewProject/build/classes/java/main"/>
+</classpath>
