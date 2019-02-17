@@ -100,8 +100,6 @@ public class PowerSet
        if (pos <= nums.length) 
        {
            res.add(each);
-       }else {
-    	   // do nothing
        }
        int i = pos;
        while (i < nums.length) 
